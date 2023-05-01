@@ -33,9 +33,14 @@ I'm typing this on a scuffed wireless keyboard which seems to have minor connect
 Additionally, this is quite the lengthy story(?). I tried to keep the most interesting bits in so hopefully it's a fun rabbit hole to go down. 
 
 ## Poverty Franchises
-> Q: What is a poverty franchise?
+```
+Q: What is a poverty franchise?
+```
+```
+A: It's when a sports franchise (team) regularly performs poorly. Usually over several years or even decades. It can also be characterized by dysfunctional management, ownership and a disappointed fan base. It almost always has nothing to do with money. 
+``` 
+—u/finalfourcuse <sup>[3]</sup>
 
-> A: It's when a sports franchise (team) regularly performs poorly. Usually over several years or even decades. It can also be characterized by dysfunctional management, ownership and a disappointed fan base. It almost always has nothing to do with money. —u/finalfourcuse <sup>[3]</sup>
 
 A nice phrase to have in your sports vocabulary. Of particlar relevance to you is probably... well the NY Jets are pretty bad right now (longest NFL Playoff drought, also fun watch maybe https://www.youtube.com/watch?v=w649VE3ZCcQ). And the Brooklyn Nets are back to being a poverty franchise probably after their superteam completely imploded (a whole other story, I think I told you about it?). The NY Knicks haven't been in a great spot recently (hovering around mediocrity, see LOLKnicks <sup>[4]</sup>) though they are actually kinda good this season. 
 
@@ -46,20 +51,25 @@ Seriously, the Cardinals have historically been terrible, but unlike those New Y
 <img src=".\assets\No One Notices the Cards.png" alt="Unlucky">
 
 ## Arizona Sports Hell
-> Q: Did you hear that Arizona's football team doesn't have a website? 
-
-> A: They can't string three "Ws" together.<sup>[2]</sup>
+```
+Q: Did you hear that Arizona's football team doesn't have a website?
+```
+```
+A: They can't string three "Ws" together.<sup>[2]</sup>
+```
 
 I was actually talking about this to an Arizona native before spring break. Of the 4 major sports (NFL, NHL, NBA, MLB) Arizona sports teams have a combined 1 championship (go 2001 Diamondbacks after 9/11!—literally that's how my mom remembers the one time AZ sports pulled out the chip, as a post-9/11 affair. ) The other championships you might see for AZ sports teams came when such teams were not located in AZ, such as the 3 championships the Winnipeg Jets won before becoming the Arizona Coyotes (who coincidentally also suck and have the second lowest franchise win percentage in the NHL).<sup>[7]</sup>
 
 
-> "In 2012, the Cardinals became the first NFL franchise to lose 700 games since its inception."<sup>[6]</sup>
+```
+"In 2012, the Cardinals became the first NFL franchise to lose 700 games since its inception."<sup>[6]</sup>
+```
 
 Here's a little bit of football trivia. The team with the current highest winning percentage in the NFL are the Dallas Cowboys with a win rate of roughly 57.4%. (550-408). The team with the current lowest winning percentage are the Tampa Bay Buccanneers with an abyssmal lifetime winrate of .404 (299-442). This is followed by the Jacksonville Jaguars' .420 (189-261). At the third worst winning percentage are the Cardinals .426 (581-790).<sup>[5]</sup> You might be thinking, "Oh, third worst, that's bad but technically not the worst!" You would be right, but I will point out the Cardinals are one of the oldest franchises in the NFL (their first game was in 1920). The Jags and the Bucs have existed for at least 5 decades less (and the Bucs have 2 championship wins). That is to say the Cards have been consistently bad for much, much longer than these other two franchises. 
 
 In the modern era (since the AFL-NFL merger in 1970) the Cardinals have won 7 playoff games and appeared in 2 NFC Championship games with a record of 1-1 in such games (shoutout to Kurt Warner, one of the best undrafted players ever). Three of their playoff wins came in the team's lone Superbowl appearance season in 2008. They have only won their division 5 times since 1970—in football you play in divisions of 4 teams based on geography, you play more games versus teams in your division and winning the division locks a spot in the playoffs.
 
-<img src="..\assets\division-winners-since-realignment.png" alt="winning is overrated">
+<img src=".\assets\division-winners-since-realignment.png" alt="winning is overrated">
 
 Source: [8]
 
@@ -85,7 +95,7 @@ Up until now, Kyler has been seen as an above average quarterback. Not a world b
 
 Nothing exemplifies this more than the Card's start to the 2021 season...
 
-<img src="..\assets\contenders-or-pretenders.png" alt="lower-your-expectations">
+<img src=".\assets\contenders-or-pretenders.png" alt="lower-your-expectations">
 
 You read that right! The Cardinals were actually... good? in 2021. Some amazing stuff. I know for sure my dad and uncles could not believe it would hold out (FORESHADOW WARNING). 
 
@@ -98,7 +108,7 @@ Here's a particularly fun way to describe the season. Heading into their Week 15
 Let's just let this reddit thread do the talking.
 
 <a href="https://www.reddit.com/r/AZCardinals/comments/rk4hjs/its_that_time_of_year_again/">
-    <img src="..\assets\its-that-time-of-year.png" alt="Unlucky">
+    <img src=".\assets\its-that-time-of-year.png" alt="Unlucky">
 </a>
 
 It wasn't even close either...
@@ -108,7 +118,9 @@ Anyways, for 7 weeks Kyler Murray was an MVP candidate. Then a combination of th
 ## He's a gamer
 Funny thing about this contract: Kyler has a very strange clause in the contract when it was initially leaked. Now known as the "Homework Clause" it stipulates Kyler needs to do a required 4 hours of "independent study" a week. While the clause is removed in the final version, it raises bizarre questions about Kyler's work ethic and is an overall bad look. This is coupled with... other aspects of Kyler's character don't do him many favors.
 
-> "Player shall not receive any credit for Independent Study with respect to any time periods during which any material is displayed or played on an iPad or electronic device if (a) Player is not personally studying or watching the material while it is being displayed or played or (b) Player is engaged in any other activity that may distract his attention (for example, watching television, playing video games or browsing the internet) while such material is being displayed or played." <sup>[10]</sup>
+```
+"Player shall not receive any credit for Independent Study with respect to any time periods during which any material is displayed or played on an iPad or electronic device if (a) Player is not personally studying or watching the material while it is being displayed or played or (b) Player is engaged in any other activity that may distract his attention (for example, watching television, playing video games or browsing the internet) while such material is being displayed or played." <sup>[10]</sup>
+```
 
 You see Kyler is an avid gamer. He even signed to FaZe clan in 2021 and he streams on Twitch. This HW clause really triggered the internet and some people got around to digging. 
 
@@ -116,7 +128,7 @@ https://www.reddit.com/r/nfl/comments/weamew/a_statistical_analysis_of_kyler_mur
 
 TLDR for this very much tongue-in-cheek "analysis." Kyler performs worse on the field on weekends where players can get double experience for playing. Other self-labelled "analysis" show Kyler's numbers drop slightly after the release of the new COD games each year. Kyler's HW clause, love of video games, and umm... shortcomings in the height department have led become a meme in the community, prompting this Gridiron Heights Episode from last season.
 
-[![Gridiron Heights](..\assets\Gridiron-Heights.jpg)](https://www.youtube.com/watch?v=uUqsc2u-t88) 
+[![Gridiron Heights](.\assets\Gridiron-Heights.jpg)](https://www.youtube.com/watch?v=uUqsc2u-t88) 
 
 ## The Future
 I don't have much faith in the Cards for 2023. They finally got rid of their mid coach (Kliff Kingsbury, who is now notorious for buying a one-way ticket to Thailand after his dismissal) but by all indications seem to be tanking for the 2023 season. With Kyler having a severe injury they have been offering star receieved DeAndre Hopkins in trade packages. It's looking like a 5 win season once again with no real signs of progress. 
