@@ -1,7 +1,7 @@
 <a name="top"></a>
 <div align="center">
   <a href="https://www.reddit.com/r/ArizonaSportsHell/">
-    <img src="\assets\oof.jpg" alt="Unlucky" >
+    <img src=".\assets\oof.jpg" alt="Unlucky" >
   </a>
 <h3 align="center">An Ode to the Poverty Franchise</h3>
 
@@ -82,7 +82,7 @@ The Heisman (award meant to be presented to the best player in college football 
 
 Don't get it twisted, Kyler is actually a good football player and QB. One of the prototypical "dual-threat"<sup>#</sup> quarterbacks of his generation, Kyler Murray is very elusive (hard for defenses to tackle) and has a killer deep ball (he throw ball far). Below I linked an example of a crazy play showcasing his abilities. 
 
-[![Insane Play](..\assets\Kyler-Murray-091822-Getty-FTR.jpg)](https://www.nfl.com/videos/can-t-miss-play-kyler-murray-s-two-point-conversion-run-lasts-for-20-seconds "2-point conversation")
+[![Insane Play](.\assets\Kyler-Murray-091822-Getty-FTR.jpg)](https://www.nfl.com/videos/can-t-miss-play-kyler-murray-s-two-point-conversion-run-lasts-for-20-seconds "2-point conversation")
 
 One of the first things you'll notice about Kyler is that he's short. Listed at 5-10, there were certainly concerns about his height and size to play in the NFL. Ultimately it did not hurt his draft stock, but it's worth noting QBs this short are the exception and not the norm in football. Jokes about Kyler being a toddler are partly rooted in his issues in the height department. (more to come on this later)
 
