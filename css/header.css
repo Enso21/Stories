@@ -1,0 +1,61 @@
+.header-wrapper {
+  padding: 40px;
+  margin-bottom: 60px;
+}
+
+.header-info {
+  position: fixed;
+  display: flex;
+  align-items: center;
+}
+
+.header-info-logo {
+  width: 5rem;
+  height: 5rem;
+}
+
+.header-info-text {
+  margin-left: 2rem;
+  font-size: 2rem;
+}
+
+.left-nav {
+  position: fixed;
+  display: block;
+  overflow: auto;
+  padding: 0;
+  list-style: none;
+  width: 25vw;
+  height: 100vh;
+  background: #FFFFFF;
+}
+
+.nav-title {
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+.nav-title a:visited {
+  color: #14213D;
+}
+
+.left-nav-list {
+  list-style: none;
+  margin: 0 12%;
+}
+
+.left-nav-list a:visited {
+  color: #14213D;
+}
+
+.nav-subheading {
+  overflow: hidden;
+  margin: 0;
+  list-style: none;
+}
+
+.nav-item {
+  font-size: 0.75em;
+}
+
+/*# sourceMappingURL=header.css.map */
