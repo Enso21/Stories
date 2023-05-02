@@ -1,0 +1,11 @@
+{
+  "name": "stories",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "scss-watch": "sass --watch scss/:css/",
+    "scss-index": "sass scss/index.scss css/index.css"
+  },
+  "author": "Huy Nguyen",
+  "license": "ISC"
+}
