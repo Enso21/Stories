@@ -1,7 +1,7 @@
 <a name="top"></a>
 <div align="center">
   <a href="https://www.reddit.com/r/ArizonaSportsHell/">
-    <img src="..\assets\oof.jpg" alt="Unlucky" >
+    <img src="assets\oof.jpg" alt="Unlucky" >
   </a>
 <h3 align="center">An Ode to the Poverty Franchise</h3>
   <p align="center">
@@ -47,7 +47,7 @@ But true poverty franchises that are universally recognized by their sports fans
 
 Seriously, the Cardinals have historically been terrible, but unlike those New York teams, no one really remembers the Cardinals. 
 
-<img src="..\assets\No One Notices the Cards.png" alt="Unlucky">
+<img src="assets\No One Notices the Cards.png" alt="Unlucky">
 
 ## Arizona Sports Hell
 ```
@@ -68,7 +68,7 @@ Here's a little bit of football trivia. The team with the current highest winnin
 
 In the modern era (since the AFL-NFL merger in 1970) the Cardinals have won 7 playoff games and appeared in 2 NFC Championship games with a record of 1-1 in such games (shoutout to Kurt Warner, one of the best undrafted players ever). Three of their playoff wins came in the team's lone Superbowl appearance season in 2008. They have only won their division 5 times since 1970—in football you play in divisions of 4 teams based on geography, you play more games versus teams in your division and winning the division locks a spot in the playoffs.
 
-<img src="..\assets\division-winners-since-realignment.png" alt="winning is overrated">
+<img src="assets\division-winners-since-realignment.png" alt="winning is overrated">
 
 Source: [8]
 
@@ -94,7 +94,7 @@ Up until now, Kyler has been seen as an above average quarterback. Not a world b
 
 Nothing exemplifies this more than the Card's start to the 2021 season...
 
-<img src="..\assets\contenders-or-pretenders.png" alt="lower-your-expectations">
+<img src="assets\contenders-or-pretenders.png" alt="lower-your-expectations">
 
 You read that right! The Cardinals were actually... good? in 2021. Some amazing stuff. I know for sure my dad and uncles could not believe it would hold out (FORESHADOW WARNING). 
 
@@ -107,7 +107,7 @@ Here's a particularly fun way to describe the season. Heading into their Week 15
 Let's just let this reddit thread do the talking.
 
 <a href="https://www.reddit.com/r/AZCardinals/comments/rk4hjs/its_that_time_of_year_again/">
-    <img src="..\assets\its-that-time-of-year.png" alt="Unlucky">
+    <img src="assets\its-that-time-of-year.png" alt="Unlucky">
 </a>
 
 It wasn't even close either...
