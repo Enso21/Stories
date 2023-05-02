@@ -35,6 +35,7 @@
 .nav-title {
   font-size: 1.5em;
   text-decoration: none;
+  color: #000000;
 }
 
 .nav-title a:visited {
@@ -54,6 +55,10 @@
   overflow: hidden;
   margin: 0;
   list-style: none;
+}
+
+.nav-subtitle {
+  color: #000000;
 }
 
 .nav-item {

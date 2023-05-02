@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "scss-watch": "sass --watch scss/:css/",
-    "scss-index": "sass scss/index.scss css/index.css"
+    "scss-watch": "sass --watch docs/scss/:docs/css/",
+    "scss-index": "sass docs/scss/index.scss docs/css/index.css"
   },
   "author": "Huy Nguyen",
   "license": "ISC"
