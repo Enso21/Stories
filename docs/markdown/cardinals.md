@@ -32,12 +32,11 @@ I'm typing this on a scuffed wireless keyboard which seems to have minor connect
 Additionally, this is quite the lengthy story(?). I tried to keep the most interesting bits in so hopefully it's a fun rabbit hole to go down. 
 
 ## Poverty Franchises
-```
-Q: What is a poverty franchise?
-```
-```
-A: It's when a sports franchise (team) regularly performs poorly. Usually over several years or even decades. It can also be characterized by dysfunctional management, ownership and a disappointed fan base. It almost always has nothing to do with money. 
-``` 
+> Q: What is a poverty franchise?
+
+
+> A: It's when a sports franchise (team) regularly performs poorly. Usually over several years or even decades. It can also be characterized by dysfunctional management, ownership and a disappointed fan base. It almost always has nothing to do with money. 
+
 —u/finalfourcuse <sup>[3]</sup>
 
 
@@ -50,19 +49,15 @@ Seriously, the Cardinals have historically been terrible, but unlike those New Y
 <img src="assets\No One Notices the Cards.png" alt="Unlucky">
 
 ## Arizona Sports Hell
-```
-Q: Did you hear that Arizona's football team doesn't have a website?
-```
-```
-A: They can't string three "Ws" together.<sup>[2]</sup>
-```
+
+> Q: Did you hear that Arizona's football team doesn't have a website?
+
+> A: They can't string three "Ws" together.<sup>[2]</sup>
 
 I was actually talking about this to an Arizona native before spring break. Of the 4 major sports (NFL, NHL, NBA, MLB) Arizona sports teams have a combined 1 championship (go 2001 Diamondbacks after 9/11!—literally that's how my mom remembers the one time AZ sports pulled out the chip, as a post-9/11 affair. ) The other championships you might see for AZ sports teams came when such teams were not located in AZ, such as the 3 championships the Winnipeg Jets won before becoming the Arizona Coyotes (who coincidentally also suck and have the second lowest franchise win percentage in the NHL).<sup>[7]</sup>
 
+> "In 2012, the Cardinals became the first NFL franchise to lose 700 games since its inception."<sup>[6]</sup>
 
-```
-"In 2012, the Cardinals became the first NFL franchise to lose 700 games since its inception."<sup>[6]</sup>
-```
 
 Here's a little bit of football trivia. The team with the current highest winning percentage in the NFL are the Dallas Cowboys with a win rate of roughly 57.4%. (550-408). The team with the current lowest winning percentage are the Tampa Bay Buccanneers with an abyssmal lifetime winrate of .404 (299-442). This is followed by the Jacksonville Jaguars' .420 (189-261). At the third worst winning percentage are the Cardinals .426 (581-790).<sup>[5]</sup> You might be thinking, "Oh, third worst, that's bad but technically not the worst!" You would be right, but I will point out the Cardinals are one of the oldest franchises in the NFL (their first game was in 1920). The Jags and the Bucs have existed for at least 5 decades less (and the Bucs have 2 championship wins). That is to say the Cards have been consistently bad for much, much longer than these other two franchises. 
 
@@ -117,9 +112,9 @@ Anyways, for 7 weeks Kyler Murray was an MVP candidate. Then a combination of th
 ## He's a gamer
 Funny thing about this contract: Kyler has a very strange clause in the contract when it was initially leaked. Now known as the "Homework Clause" it stipulates Kyler needs to do a required 4 hours of "independent study" a week. While the clause is removed in the final version, it raises bizarre questions about Kyler's work ethic and is an overall bad look. This is coupled with... other aspects of Kyler's character don't do him many favors.
 
-```
-"Player shall not receive any credit for Independent Study with respect to any time periods during which any material is displayed or played on an iPad or electronic device if (a) Player is not personally studying or watching the material while it is being displayed or played or (b) Player is engaged in any other activity that may distract his attention (for example, watching television, playing video games or browsing the internet) while such material is being displayed or played." <sup>[10]</sup>
-```
+
+> "Player shall not receive any credit for Independent Study with respect to any time periods during which any material is displayed or played on an iPad or electronic device if (a) Player is not personally studying or watching the material while it is being displayed or played or (b) Player is engaged in any other activity that may distract his attention (for example, watching television, playing video games or browsing the internet) while such material is being displayed or played." <sup>[10]</sup>
+
 
 You see Kyler is an avid gamer. He even signed to FaZe clan in 2021 and he streams on Twitch. This HW clause really triggered the internet and some people got around to digging. 
 
