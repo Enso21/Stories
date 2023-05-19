@@ -31,7 +31,7 @@ class Nav extends HTMLElement {
             <circle cx="438.733" cy="543.411" r="14" transform="rotate(34.43 438.733 543.411)" fill="#14213D" />
           </svg>
         </span>
-        <span class="header-info-text">TITLE</span>
+        <span class="header-info-text">Stories</span>
       </div>
     </nav>
     <ul class="left-nav-list">
@@ -46,8 +46,8 @@ class Nav extends HTMLElement {
           <li class="nav-item"> <a href="no-context.html">
               <h2 class="nav-subtitle">No Context</h2>
             </a></li>
-          <li class="nav-item"> <a href="index.html">
-              <h2 class="nav-subtitle">!!!</h2>
+          <li class="nav-item"> <a href="quotes.html">
+              <h2 class="nav-subtitle">Quotes</h2>
             </a></li>
           <li class="nav-item"> <a href="index.html">
               <h2 class="nav-subtitle">???</h2>
