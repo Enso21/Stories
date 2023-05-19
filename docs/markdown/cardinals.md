@@ -59,7 +59,7 @@ I was actually talking about this to an Arizona native before spring break. Of t
 > "In 2012, the Cardinals became the first NFL franchise to lose 700 games since its inception."<sup>[6]</sup>
 
 
-Here's a little bit of football trivia. The team with the current highest winning percentage in the NFL are the Dallas Cowboys with a win rate of roughly 57.4%. (550-408). The team with the current lowest winning percentage are the Tampa Bay Buccanneers with an abyssmal lifetime winrate of .404 (299-442). This is followed by the Jacksonville Jaguars' .420 (189-261). At the third worst winning percentage are the Cardinals .426 (581-790).<sup>[5]</sup> You might be thinking, "Oh, third worst, that's bad but technically not the worst!" You would be right, but I will point out the Cardinals are one of the oldest franchises in the NFL (their first game was in 1920). The Jags and the Bucs have existed for at least 5 decades less (and the Bucs have 2 championship wins). That is to say the Cards have been consistently bad for much, much longer than these other two franchises. 
+Here's a little bit of football trivia. The team with the current highest winning percentage in the NFL are the Dallas Cowboys with a win rate of roughly 57.4%. (550-408). The team with the current lowest winning percentage are the Tampa Bay Buccanneers with an abyssmal lifetime winrate of .404 (299-442). This is followed by the Jacksonville Jaguars' .420 (189-261). At the third worst winning percentage are the Cardinals .426 (581-790).<sup>[5]</sup> You might be thinking, "Oh, third worst, that's bad but technically not the worst!" You would be right, but I will point out the Cardinals are one of the oldest franchises in the NFL (their first game was in 1920). The Jags and the Bucs have existed for at least 5 decades less (and the Bucs have 2 championship wins). That is to say the Cards have been consistently bad for much, much longer than these other two franchises. Here's an excellent post to showcase this: out of every team below a 50% winrate in their history, the Cardinals would need to win the most games to get to 50%. They would have to win over 200 games in a row (the NFL regular season only 17 games, they'd have to go undefeated for over 10 seasons!) <sup>[11]</sup>
 
 In the modern era (since the AFL-NFL merger in 1970) the Cardinals have won 7 playoff games and appeared in 2 NFC Championship games with a record of 1-1 in such games (shoutout to Kurt Warner, one of the best undrafted players ever). Three of their playoff wins came in the team's lone Superbowl appearance season in 2008. They have only won their division 5 times since 1970—in football you play in divisions of 4 teams based on geography, you play more games versus teams in your division and winning the division locks a spot in the playoffs.
 
@@ -144,6 +144,7 @@ I'm not owned by a billionaire. Donate to my boba fund to give me a reason to wa
 8. [Realignment Graphic](https://www.reddit.com/r/nfl/comments/uwov6h/division_standings_since_realignment_2002/)
 9. [Contract](https://www.spotrac.com/nfl/arizona-cardinals/kyler-murray-29036)
 10. [HW Clause](https://profootballtalk.nbcsports.com/2022/07/25/kyler-murrays-new-contract-has-a-homework-clause/)
+11. [Wins to 500](https://www.reddit.com/r/nfl/comments/12gtnt5/how_long_itll_take_each_team_under_0500_to_get_to/)
 
 * Here's some more reddit threads flaming the Cards
 * https://www.reddit.com/r/nfl/comments/11fezeq/venerable_more_from_nflpa_on_the_arizona/
@@ -151,5 +152,6 @@ I'm not owned by a billionaire. Donate to my boba fund to give me a reason to wa
 * https://www.reddit.com/r/nfl/comments/107jc9b/schefter_sources_the_arizona_cardinals_fired_head/
     * [Motion to refer any future firing of coaches as “buying a one-way ticket to Thailand.”](https://www.reddit.com/r/nfl/comments/10bxip3/bo_brack_peter_schrager_says_on_fox_former/)
     * [This actually happened](https://bleacherreport.com/articles/10061695-report-kliff-kingsbury-bought-1-way-ticket-to-thailand-has-rebuffed-nfl-interest)
+* [Looking good for next season! (not)](https://www.reddit.com/r/nfl/comments/13fxy70/allen_the_cardinals_are_favored_in_zero_games/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
