@@ -24,7 +24,7 @@
 
 > Zoe to Linus:
 >
-> "Let me tll you something, Linus Baker," she said, hands clencehd on the top of the driver's door. "There are moments in your life, moments when chances have to be taken. It's scary because there is always the possibility of failure. I know that. I *know* that. Because once upon a time, I took a chance on a man that I had failed before. I was *scared *. I was *terrified*. I thought I might lose everything. But I wasn't living, then. The life I had before wasn't *living*. It was getting by. And I will never regret the chances I took. Because it brought me to them. To all of them. I made my choice. And you're making yours." She opened the door and got in the car. The engine turned over. She looked back at him just once when she said, "Don't you wish things could be different?" (339).
+> "Let me tll you something, Linus Baker," she said, hands clencehd on the top of the driver's door. "There are moments in your life, moments when chances have to be taken. It's scary because there is always the possibility of failure. I know that. I *know* that. Because once upon a time, I took a chance on a man that I had failed before. I was *scared*. I was *terrified*. I thought I might lose everything. But I wasn't living, then. The life I had before wasn't *living*. It was getting by. And I will never regret the chances I took. Because it brought me to them. To all of them. I made my choice. And you're making yours." She opened the door and got in the car. The engine turned over. She looked back at him just once when she said, "Don't you wish things could be different?" (339).
 >
 >  — TJ Klune, *The House in the Cerulean Sea* (2020)
 
@@ -59,4 +59,7 @@ Through experience, we come to believe that the image is correct, but that is al
 > 
 > — Laura van den Berg, *I Hold a Wolf by the Ears* (2020)
 
+> If youth is the season of hope, it is often so only in the sense that our elders are hopeful about us; for no age is so apt as youth to think its emotions, partings, and resolves are the last of their kind. Each crisis seems final, simply because it is new. (577)
+> 
+> Mary Anne Evans, *Middlemarch* (1871)
 
