@@ -20,7 +20,7 @@
 >
 > In the H Mart food court, I find myself again, searching for the first chapter of the story I want to tell about my mother. I am sitting next to a Korean mother and her son, who have unknowingly taken the table next to ol' waterworks. The kid dutifully gets their silverware from the counter and places in on paper napkins for both of them. He's eating fried rice and his mom has seoloeongtang, ox-bone soup. He must be in his early twenties, but his mother is still unstructing him on how to eat, just like my mom used to. "Dip the onion in the paste." "Don't add too much gochujang or it'll be to salty." "Why aren't you eating the mung beans?" Some days, the constant naggging would annoy me. Woman, let me eat in peace! But, most days, I knew it was the ultimate display of a Korean woman's tenderness, and I cherished that love. A love I'd do anything to have back. (10)
 >
-> — Michelle Zaun, *Crying in H Mart* (2021)
+> — Michelle Zauner, *Crying in H Mart* (2021)
 
 > Zoe to Linus:
 >
