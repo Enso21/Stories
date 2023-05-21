@@ -10,7 +10,7 @@ class Nav extends HTMLElement {
     <nav class="header-wrapper">
       <div class="header-info">
         <span class="header-info-logo">
-          <svg width="100%" height="100%" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+          <svg width="100%" height="100%" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/1999/xlink"> <a xlink:href="index.html">
             <path
               d="M969.5 485C969.5 752.582 752.582 969.5 485 969.5C217.418 969.5 0.5 752.582 0.5 485C0.5 217.418 217.418 0.5 485 0.5C752.582 0.5 969.5 217.418 969.5 485Z"
               fill="#14213D" stroke="#14213D" />
@@ -29,6 +29,7 @@ class Nav extends HTMLElement {
               d="M495.785 270.935L584.865 331.998L442.385 539.852L425.563 553.781L255.943 801.226C287.013 736.445 343.624 673.521 292.488 484.383C380.392 439.316 442.312 373.705 495.785 270.935Z"
               fill="white" stroke="white" />
             <circle cx="438.733" cy="543.411" r="14" transform="rotate(34.43 438.733 543.411)" fill="#14213D" />
+            </a>
           </svg>
         </span>
         <span class="header-info-text">Stories</span>
