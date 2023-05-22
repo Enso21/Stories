@@ -1,5 +1,7 @@
 ## Ryan "You don't just say quotes" Xu: 
 
+### "If you aren't comfortable with what you say being recorded in history, then why say it at all?"
+
 >Ryan:"Nooooo... Fuck that's wrong"
 >
 > *a few seconds later*
@@ -27,10 +29,7 @@
 >Ryan: "Yeah well I woud have enjoyed 75 minutes of doing nothing, but I think in theory it's a good idea to go to lecture."
 
 
-
-
 >"You don't just say quotes"
-
 
 >Ryan: "This happens more than you think."
 >
@@ -38,13 +37,13 @@
 >
 >Ryan: "No like I'll remember something and it'll be from a dream"
 >
->A few seconds later...
+>*A few seconds later...*
 >
 >Ryan: "I kinda do want that shirt..."
 >
->"Dang I'm kinda sad now, I really wanted to save so much money. It was like save $10 and a two-for-one deal."
+>"Dang, I'm kinda sad now, I really wanted to save so much money. It was like save $10 and a two-for-one deal."
 >
->Later later...
+>*Later later...*
 >
 >Ryan grumbling
 >
@@ -66,11 +65,11 @@
 >
 >Ryan: "It's knowing when you make a move whether it will instantly lose you the game or not."
 
->Me: "I'm going to be late to ML as per usual"
+>Me: "I'm going to be late to ML as per usual."
 >
 >Ryan:"I won't be late."
 >
->Me: "Well, what do they say? Better late than".. *points*
+>Me: "Well, what do they say? Better late than"... *points*
 >
 >Ryan: "Don't worry, I'll go next semester."
 
@@ -102,31 +101,29 @@
 >
 >(I think I woke the dead, oops)
 
->Ryan: "Yeah we get to avoid paper cuts"
+>Ryan: "Yeah, we get to avoid paper cuts"
 >
 >Me: "Paper cuts? Don't you mean splinters?"
 >
 >Ryan: "Paper cuts like hand injury, like nicks. Actually I guess splinters are pretty dangerous... The worst a paper can get is like it hurts."
 
->Where are our teleportation majors?!
+>"Where are our teleportation majors?!"
 
 >Me: There's a line between bravery and stupidity.
 >
 >Ryan: No they are always synonmyous. If you need to be brave, then it's dumb. Like if you know that something is the right thing to do, like you're being smart about it (aka not dumb) [he actually said this] then you are just being correct. Therefore bravery and stupidity are synonmyous. 
 
->The word brave is a big domain (draws circle). I'm just refining the definition. 
+>The word brave is a big domain *(draws circle)*. I'm just refining the definition. 
 
 >Everything's nuanced. You cannot encapsulate an entire conversation in a single quote. 
 >
->Later...
+>*Later...*
 >
 >Like you can describe something as bravery, it can be positive, it can be smart, but perhaps I wouldn't use that word. But to ME, I wouldn't use that word.
 
 >You have to capture it in the moment. The facts that are coming from this head don't wait, they don't pause. You need to increase your WPM to capture all of the thoughts. 
 
->If you aren't comfortable with what you say being recorded in history, then why say it at all? 
-
->I don't have to word.
+>"I don't have to word."
 
 >Me: Ryan, I think you were talking in your sleep last night but I don't remember what you said"
 >
@@ -160,7 +157,7 @@
 >
 >Ryan: No like literally what is it? Like if I go to Chili's is it all chili?
 >
->Me pointing at Ryan: Dude I told you this guy.
+>Me [pointing at Ryan]: Dude I told you this guy.
 
 >Just because I said I didn't know what chili is doesn't mean I didn't know what it is at all. I'm just aware of my own lack of knowledge and I was trying to increase my knowledge. 
 >
@@ -186,7 +183,7 @@
 >
 >You're worth a dollar
 
->That's just controlled superstitution. 
+>"That's just controlled superstitution."
 
 >Me: They're very clearly friends.
 >
@@ -236,7 +233,7 @@
 
 >Wait so we're watching the second one because it's the one that is 0%, but do you think we'll have contingency [sic] problems? 
 
->I'm just participating in the movie. 
+>"I'm just participating in the movie."
 
 >[singing]
 >
@@ -276,12 +273,10 @@
 
 >[Ryan on one mimosa with extra orange juice]
 >
->If someone saying quotes while sober in this wise, then who knows what they are going to say when they are drunk?
+>If someone saying quotes while sober is this wise, then who knows what they are going to say when they are drunk?
 
 >"Oken is such a rarefied cuisine."
 
-> [me to a captive audience]
->
->Actually, I know Ryan's middle school flex: He was a chess champion in middle school and elementary school.
+> [me to a captive audience]: Actually, I know Ryan's middle school flex: He was a chess champion in middle school and elementary school.
 >
 > Ryan: Actually I was a chess champion in high school, too. But champion is loosely defined. 

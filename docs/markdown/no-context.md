@@ -12,4 +12,8 @@
 > Student: It targets the BTK inhibitor
 > BTK? Is that the Korean band?
 
+> How about we pretend we discarded that card before. Yeah, we didn't lose. It's more fun if we didn't!
+
+> So Chennai doesn't exist any more. 
+
 
