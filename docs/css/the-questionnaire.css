@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+.header-wrapper {
+  padding: 40px;
+  margin-bottom: 60px;
+}
+
+.header-info {
+  position: fixed;
+  display: flex;
+  align-items: center;
+}
+
+.header-info-logo {
+  width: 5rem;
+  height: 5rem;
+}
+
+.header-info-text {
+  margin-left: 2rem;
+  font-size: 2rem;
+}
+
+.left-nav {
+  position: fixed;
+  display: block;
+  overflow: auto;
+  padding: 0;
+  list-style: none;
+  width: 25vw;
+  height: 100vh;
+  background: #E5E5E5;
+}
+
+.nav-title {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: #000000;
+}
+
+.nav-title a:visited {
+  color: #14213D;
+}
+
+.left-nav-list {
+  list-style: none;
+  margin: 0 12%;
+}
+
+.left-nav-list a:visited {
+  color: #14213D;
+}
+
+.nav-subheading {
+  overflow: hidden;
+  margin: 0;
+  list-style: none;
+}
+
+.nav-subtitle {
+  color: #000000;
+}
+
+.nav-item {
+  font-size: 0.75em;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+.markdown-body {
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 45px;
+  min-height: 100vh;
+}
+
+@media (max-width: 767px) {
+  .markdown-body {
+    padding: 15px;
+  }
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=the-questionnaire.css.map */
