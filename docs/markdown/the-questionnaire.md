@@ -84,5 +84,5 @@
 64. Have you ever been betrayed/hurt by someone close to you, and how did you react? (K O.)
 65. If you could unlearn something (not related to trauma) what would it be? (Kevin A.)
 66. / 66.5 
-    * When was the last time you cried, and why? (Alice N.)
-    * Do you think everything happens for a reason? (Alice N.)
+    * When was the last time you cried, and why? (Be Ba)
+    * Do you think everything happens for a reason? (Be Ba)
