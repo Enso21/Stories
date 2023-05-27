@@ -68,7 +68,7 @@
     * What's your favorite aesthetic? (Charlotte D.)
 51. Worst exam ever at Cornell (or other college)? (Shuyu C.)
 52. If a meteor hits Earth in an hour, what would you do? (Tony C.)
-53. Go-to fun fact about yourself? (?)
+53. Go-to fun fact about yourself? (Albert X.)
 54. If you could have any animal for a pet, disregarding any maintainence costs of safety concerns, what would you get? (Jiho C.)
 55. What's a life event that you think everyone should go through? (Charlotte D.)
 56. / 56.5
