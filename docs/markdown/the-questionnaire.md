@@ -86,3 +86,4 @@
 66. / 66.5 
     * When was the last time you cried, and why? (Be Ba)
     * Do you think everything happens for a reason? (Be Ba)
+67. If you could pick one trait or skill to be known as the best at worldwide, what would it be? (Jude)
