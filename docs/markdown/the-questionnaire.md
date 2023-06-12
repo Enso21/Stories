@@ -1,6 +1,6 @@
 ## The Questionnaire
 
-> Thank you to everyone who has taken the questionnaire. I appreciate everyone who has taken the time out of their day to answer a real grab-bag of random questions, regardless if they answered a few questions or the entire thing. It has been a really fun component of my life in the last year or so. 
+> Thank you to everyone who has answered the questionnaire. I appreciate everyone who has taken the time out of their day to answer a real grab-bag of random questions, regardless if it was just a few questions or the entire thing. It has been a really fun component of my life in the last year or so. 
 
 1. Are you vaccinated for Hepatatis B? (Huy)
 2. Have you heard of Brokeback Mountain? (Huy and Ryan X.)
@@ -12,10 +12,10 @@
 7. Favorite fortnite dance? (Prithwish D.)
 8. What color is math? (Sharon W.)
    * Formerly: Illinois or Maryland?
-9. How much money would it take for you to become a middle school teacher for the rest of your career (yearly salary)? What subject would you teach? (Caroline R. )
+9. How much money would it take for you to become a middle school teacher for the rest of your career (yearly salary)? What subject would you teach? (Caroline R.)
 10. Name as many countries that border Norway that you can. (Dubem O.)
 11. What major U.S city would you least like to live in? (Jordan)
-12. Favorite class at Cornell? Bonus points for 3110 (Anissa D.)
+12. Favorite class at Cornell (or other college)? Bonus points for 3110 (Anissa D.)
 13. Name a yellow fruit. https://www.youtube.com/watch?v=SBeYzoQPbu8 (Allison L.)
 14. What is your go-to chip (brand and flavor)? (Henry Z.)
 15. If you could have a chain restaurant in Ithaca that isn't here what would you add? (Amanda A.)
@@ -86,4 +86,4 @@
 66. / 66.5 
     * When was the last time you cried, and why? (Be Ba)
     * Do you think everything happens for a reason? (Be Ba)
-67. If you could pick one trait or skill to be known as the best at worldwide, what would it be? (Jude)
+67. If you could pick one trait or skill to be known as the best at worldwide, what would it be? (Jude A.)
