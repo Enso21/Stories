@@ -72,7 +72,7 @@
 54. If you could have any animal for a pet, disregarding any maintainence costs of safety concerns, what would you get? (Jiho C.)
 55. What's a life event that you think everyone should go through? (Charlotte D.)
 56. / 56.5
-      * What's your drag name? (Elaina*)
+      * What's your drag name? (Elena)
       * If you had all the time or money in the world, what would you do? (Christine)
 57. During the purge, how likely would you be to kill someone? (Jassa)
 58. If you had to give up a sense, what would you give up? (Christine)
