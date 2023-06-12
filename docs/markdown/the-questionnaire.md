@@ -19,7 +19,7 @@
 13. Name a yellow fruit. https://www.youtube.com/watch?v=SBeYzoQPbu8 (Allison L.)
 14. What is your go-to chip (brand and flavor)? (Henry Z.)
 15. If you could have a chain restaurant in Ithaca that isn't here what would you add? (Amanda A.)
-16. When you use a forx and a knife, what hand holds the fork (dominant hand or non dominant)? (Sanjit B.)
+16. When you use a fork and a knife, what hand holds the fork (dominant hand or non dominant)? (Sanjit B.)
 17. / 17.5
     * What is something you want to brag about? (Emory W.)
     * What is something you are passionate about? (Huy)
