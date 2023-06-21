@@ -33,9 +33,9 @@
     * What's the hardest thing you are going through right now? (Kassie W.)
     * Favorite pickup line? (If this is chosen, ask if the use of a pickup line would increase or decrease a person's chances with them) (Kassie W.)
 25. Favorite song?
-26. Do you think you can beat this guy in a fight and why? (Jiho C.) 
+26. Do you think you can beat this guy in e a fight and why? (Jiho C.) 
     * Request picture from Huy
-27. Cheesecake of cannoli? (Dubem's friend)
+27. Cheesecake or cannoli? (Dubem's friend)
 28. Coolest thing you've ever seen? (?)
 29. If you are president and you can ban any eating utensil, what would you ban? (Joey N.)
 30. What is the first thing that comes to mind when you see this? (Edward W.)
@@ -87,3 +87,5 @@
     * When was the last time you cried, and why? (Be Ba)
     * Do you think everything happens for a reason? (Be Ba)
 67. If you could pick one trait or skill to be known as the best at worldwide, what would it be? (Jude A.)
+68. If you could go back in time to tell your 10 year old self one sentence, what would you say? (Tessa)
+69. If you were to die tomorrow, what would you regret not having done?... Why aren't you doing it now? (Jacob H.)
