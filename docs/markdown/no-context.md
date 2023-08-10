@@ -22,5 +22,8 @@
 
 > You know that "Alas poor Yorick" scene from Hamlet? Couple of gravediggers there just playing with skulls, shooting the shit. You bet they told their boss it'd take them 3 hours to dig the grave they'll do in 1. And if they don't get around to it, then the recent rain made the ground too muddy to work, so they spent the time on "shovel maintenance" or some shit.
 
+> Surreal scenarios are one of the basic ingredients of humor, my friend
+
+
 
 
