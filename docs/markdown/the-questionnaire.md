@@ -12,7 +12,7 @@
 7. Favorite fortnite dance? (Prithwish D.)
 8. What color is math? (Sharon W.)
    * Formerly: Illinois or Maryland?
-9. How much money would it take for you to become a middle school teacher for the rest of your career (yearly salary)? What subject would you teach? (Caroline R.)
+9. How much money would it take for you to become a middle school teacher for the rest of your career (yearly salary)? What subject would you teach? (Caroline L.)
 10. Name as many countries that border Norway that you can. (Dubem O.)
 11. What major U.S city would you least like to live in? (Jordan)
 12. Favorite class at Cornell (or other college)? Bonus points for 3110 (Anissa D.)
@@ -33,7 +33,7 @@
     * What's the hardest thing you are going through right now? (Kassie W.)
     * Favorite pickup line? (If this is chosen, ask if the use of a pickup line would increase or decrease a person's chances with them) (Kassie W.)
 25. Favorite song?
-26. Do you think you can beat this guy in e a fight and why? (Jiho C.) 
+26. Do you think you can beat this guy in a fight and why? (Jiho C.) 
     * Request picture from Huy
 27. Cheesecake or cannoli? (Dubem's friend)
 28. Coolest thing you've ever seen? (?)
@@ -89,3 +89,4 @@
 67. If you could pick one trait or skill to be known as the best at worldwide, what would it be? (Jude A.)
 68. If you could go back in time to tell your 10 year old self one sentence, what would you say? (Tessa)
 69. If you were to die tomorrow, what would you regret not having done?... Why aren't you doing it now? (Jacob H.)
+70. How many books have you read this year? (Trevor L.)
