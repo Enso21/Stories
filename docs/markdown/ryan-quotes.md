@@ -265,7 +265,7 @@
 >
 >If the food was too good, you'd be too focused on the food: like this pasta is so good, but if the food was so bad, then that would be all you were talking about. 
 
->Ryan: Think about it, next year you;'re going to get paid 50 dollars an hour. Think about it: is the work you are doing now any different than the work you'll do next year?
+>Ryan: Think about it, next year you're going to get paid 50 dollars an hour. Think about it: is the work you are doing now any different than the work you'll do next year?
 
 >Me: Well, there's a possibility I don't get hired next year.
 
@@ -280,3 +280,48 @@
 > [me to a captive audience]: Actually, I know Ryan's middle school flex: He was a chess champion in middle school and elementary school.
 >
 > Ryan: Actually I was a chess champion in high school, too. But champion is loosely defined. 
+
+> Me: Did they learn about you, Jenny?
+> 
+> Jenny: No, I gave no opinions.
+>
+> Ryan: There will be time for that later.
+> [collective freakout]
+> Jenny: I'm going to be sick tomorrow
+
+> When I got here there were 6 pens in that cup!
+
+> [tips hat]
+> Ryan to Jenny: Dear madam or dear lady
+
+> Ryan: That's questionable.
+>
+> Tia: What do you mean?
+> 
+> Because I question it
+
+> [on 1 star reviews]
+> At a one star restaurant, not everyone gives 1 star reviews. I'm one of those people who thinks it's OK.
+
+
+> Ryan: It's good to look young so you can qualify for the youth discounts.
+>
+> Me: I'm a little too tall to get away with this discount, but maybe Ryan can uh—
+
+> The road is intoxicating.
+
+> The cups
+
+> I've been using the same fork for 12 weeks. It's causing me to reexamine my beliefs about the cup.
+
+> I'm not a conspiracy theorist, but I'm going to argue that the old cup was more... voluptuous. 
+
+> Ryan: Ok, so repeat the theory.
+>
+> Jenny: Ok, so they *did* make the cup smaller—
+>
+> Ryan: Sounds good 
+
+> The chef there is measuring time by drinking from a cup. So now the cup is smaller so it gets cooked for less time. Perfect!
+
+> No it's a good theory. To the lay person it would sound outlandish. 
