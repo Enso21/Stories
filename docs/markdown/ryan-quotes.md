@@ -26,7 +26,7 @@
 
 >Me: "Did you enjoy lecture today, Ryan?"
 >
->Ryan: "Yeah well I woud have enjoyed 75 minutes of doing nothing, but I think in theory it's a good idea to go to lecture."
+>Ryan: "Yeah well I would have enjoyed 75 minutes of doing nothing, but I think in theory it's a good idea to go to lecture."
 
 
 >"You don't just say quotes"
@@ -287,6 +287,7 @@
 >
 > Ryan: There will be time for that later.
 > [collective freakout]
+>
 > Jenny: I'm going to be sick tomorrow
 
 > When I got here there were 6 pens in that cup!
