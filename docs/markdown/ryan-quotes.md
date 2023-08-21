@@ -310,7 +310,7 @@
 
 > The road is intoxicating.
 
-> The cups
+## The Cups
 
 > I've been using the same fork for 12 weeks. It's causing me to reexamine my beliefs about the cup.
 
