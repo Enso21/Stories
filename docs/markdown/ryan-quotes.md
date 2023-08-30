@@ -321,7 +321,7 @@
 >
 > Jenny: Ok, so they *did* make the cup smaller—
 >
-> Ryan: Sounds good 
+> Ryan: Sounds good!
 
 > The chef there is measuring time by drinking from a cup. So now the cup is smaller so it gets cooked for less time. Perfect!
 
