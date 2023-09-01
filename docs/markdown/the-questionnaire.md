@@ -27,8 +27,10 @@
 19. What P.E class would you take disregarding pre reqs? (Eunice)
 20. Book recommendations? (Huy)
 21. Favorite scenic spot on campus, bonus points for pictures. (?)
-22. Favorite number. (?)
-23. Tabs or spaces. (?)
+22. / 22.5  
+    * Favorite number. (?)
+    * Tabs or spaces. (?) 
+23. How are you doing these days? (Huy)
 24. / 24.5
     * What's the hardest thing you are going through right now? (Kassie W.)
     * Favorite pickup line? (If this is chosen, ask if the use of a pickup line would increase or decrease a person's chances with them) (Kassie W.)
@@ -91,3 +93,4 @@
 69. If you were to die tomorrow, what would you regret not having done?... Why aren't you doing it now? (Jacob H.)
 70. How many books have you read this year? (Trevor L.)
 71. What does love look like to you? (Jon P.)
+72. Tell me a story. (Huy)
