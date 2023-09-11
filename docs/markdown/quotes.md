@@ -63,3 +63,14 @@ Through experience, we come to believe that the image is correct, but that is al
 > 
 > — Mary Anne Evans, *Middlemarch* (1871)
 
+> I wanted too much from her, I think. I demanded too much. 
+>
+> "I love you," I murmured while asleep, while awake, into her hair, into her neck. 
+>
+> "Please don't call me that," I reminded her. "I would never talk like that to you."
+>
+> "I only want you, I swear," I said, when paranoia crept into her voice like an infection.
+>
+> I believe in a world where impossible things happen. Where love can outstrip brutality, can neutralize it, as though it never was, or transform it into something new and more beautiful. Where love can outdo nature. (56)
+>
+> —Carmen Maria Machado, *Her Body and Other Parties* (2017)
