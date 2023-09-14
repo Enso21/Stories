@@ -94,3 +94,4 @@
 70. How many books have you read this year? (Trevor L.)
 71. What does love look like to you? (Jon P.)
 72. Tell me a story. (Huy)
+73. Tell me about an interesting experience you had with a stranger. (Cait C.)

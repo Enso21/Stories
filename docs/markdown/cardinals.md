@@ -40,7 +40,7 @@ Additionally, this is quite the lengthy story(?). I tried to keep the most inter
 —u/finalfourcuse <sup>[3]</sup>
 
 
-A nice phrase to have in your sports vocabulary. Of particlar relevance to you is probably... well the NY Jets are pretty bad right now (longest NFL Playoff drought, also fun watch maybe https://www.youtube.com/watch?v=w649VE3ZCcQ). And the Brooklyn Nets are back to being a poverty franchise probably after their superteam completely imploded (a whole other story, I think I told you about it?). The NY Knicks haven't been in a great spot recently (hovering around mediocrity, see LOLKnicks <sup>[4]</sup>) though they are actually kinda good this season. 
+A nice phrase to have in your sports vocabulary. Of particlar relevance to you is probably... well the NY Jets are pretty bad right now (longest NFL Playoff drought, also fun watch maybe https://www.youtube.com/watch?v=w649VE3ZCcQ). (EDIT Week 1 2023 season: Ok, New York football fans don't get to have nice things). And the Brooklyn Nets are back to being a poverty franchise probably after their superteam completely imploded (a whole other story, I think I told you about it?). The NY Knicks haven't been in a great spot recently (hovering around mediocrity, see LOLKnicks <sup>[4]</sup>) though they are actually kinda good this season. 
 
 But true poverty franchises that are universally recognized by their sports fans would be the Cleveland Browns (obligatory Browns bad moment), the Detroit Lions, the San Diego Padres, the Kings (hey they're good this season!!!), and... the sleeper poverty franchise that is the Arizona Cardinals. 
 
