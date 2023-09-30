@@ -1,6 +1,6 @@
 ## The Questionnaire
 
-> Thank you to everyone who has answered the questionnaire. I appreciate everyone who has taken the time out of their day to answer a real grab-bag of random questions, regardless if it was just a few questions or the entire thing. It has been a really fun component of my life in the last year or so. If I mispell your or another person's name, do let me know. 
+> Thank you to everyone who has answered the questionnaire. I appreciate everyone who has taken the time out of their day to answer a real grab-bag of random questions, regardless if it was just a few questions or the entire thing. It has been a really fun component of my life in the last year or so. If I misspell your or another person's name, do let me know. 
 
 1. Are you vaccinated for Hepatatis B? (Huy)
 2. Have you heard of Brokeback Mountain? (Huy and Ryan X.)
