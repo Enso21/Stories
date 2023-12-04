@@ -99,3 +99,6 @@
     * Tell me about a time when you were unexpectedly shown kindness. (Cait C.)
 74. What is the best gift someone has gotten you? (Daniella)
 75. Bucket list of travel destinations? (Ariela G.)
+76. Favorite type of moth? (Brooke)
+77. What's a real-life object that you want? (Julia)
+78. Fruit box or memory camera? (Huy and Charlotte)
