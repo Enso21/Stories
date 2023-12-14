@@ -326,3 +326,16 @@
 > The chef there is measuring time by drinking from a cup. So now the cup is smaller so it gets cooked for less time. Perfect!
 
 > No it's a good theory. To the lay person it would sound outlandish. 
+
+> What about selective discrimination?
+>
+> Isn't that just discrimination?
+
+> Are you looking at Quora? Quotation??? Yeah I don't know who to trust when it comes to Shaq's degrees
+
+> Nut bending is not canon.
+
+> A pineapple is a long range fruit
+
+> There's so much power in infinite fruit.
+
