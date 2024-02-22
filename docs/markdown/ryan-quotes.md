@@ -339,3 +339,18 @@
 
 > There's so much power in infinite fruit.
 
+> Jenny: I think I'm better at telling jokes than you
+>
+> Ryan: No, I'm just better at laughing
+
+> You know buttkicks? Like in P.E? 
+>
+> But... when you do butkicks are you running? Is there a time when you don't have your feet on the ground. 
+> 
+> On the same topic, you know how there's race walking—well everyone's cheating. Yeah if you get called out 3 times you get kicked out. It's an Olympic sport. 
+> 
+> Back to the original point: if you wanted to drop kick yourself, you just need to do some buttkicks. 
+
+> Me: Can you repeat that again but more confidently this time?
+> 
+> Ryan: OK [pounds fists on table]. Wait actually I forgot the name of the law.
