@@ -102,3 +102,4 @@
 76. Favorite type of moth? (Brooke)
 77. What's a real-life object that you want? (Julia)
 78. Fruit box or memory camera? (Huy and Charlotte)
+79. You're given a poke bowl. Do you stir before eating? (Soon Jae)
