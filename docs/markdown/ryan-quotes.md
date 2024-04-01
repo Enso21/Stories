@@ -2,7 +2,7 @@
 
 ### "If you aren't comfortable with what you say being recorded in history, then why say it at all?"
 
->Ryan:"Nooooo... Fuck that's wrong"
+> [Sleeping] Ryan: "Nooooo... Fuck that's wrong"
 >
 > *a few seconds later*
 >
@@ -257,7 +257,7 @@
 >
 >Ryan to Jenny:
 >
->Ooh, ooh-ooh-ooh-ooh-ooh-ooh-ooh (ayy)
+>*Ooh, ooh-ooh-ooh-ooh-ooh-ooh-ooh (ayy)*
 
 >No my utility of action 1 of player 1!
 
@@ -266,9 +266,9 @@
 >If the food was too good, you'd be too focused on the food: like this pasta is so good, but if the food was so bad, then that would be all you were talking about. 
 
 >Ryan: Think about it, next year you're going to get paid 50 dollars an hour. Think about it: is the work you are doing now any different than the work you'll do next year?
-
+>
 >Me: Well, there's a possibility I don't get hired next year.
-
+>
 >Ryan: That's why you got to get it in now.
 
 >[Ryan on one mimosa with extra orange juice]
@@ -281,6 +281,8 @@
 >
 > Ryan: Actually I was a chess champion in high school, too. But champion is loosely defined. 
 
+> [on Jenny meeting Ryan's parents]
+> 
 > Me: Did they learn about you, Jenny?
 > 
 > Jenny: No, I gave no opinions.
@@ -288,7 +290,7 @@
 > Ryan: There will be time for that later.
 > [collective freakout]
 >
-> Jenny: I'm going to be sick tomorrow
+> Jenny: I'm going to be sick tomorrow.
 
 > When I got here there were 6 pens in that cup!
 
@@ -299,7 +301,7 @@
 >
 > Tia: What do you mean?
 > 
-> Because I question it
+> Ryan: Because I question it
 
 > [on 1 star reviews]
 > At a one star restaurant, not everyone gives 1 star reviews. I'm one of those people who thinks it's OK.
@@ -326,6 +328,8 @@
 > The chef there is measuring time by drinking from a cup. So now the cup is smaller so it gets cooked for less time. Perfect!
 
 > No it's a good theory. To the lay person it would sound outlandish. 
+
+--- 
 
 > What about selective discrimination?
 >
@@ -354,3 +358,39 @@
 > Me: Can you repeat that again but more confidently this time?
 > 
 > Ryan: OK [pounds fists on table]. Wait actually I forgot the name of the law.
+
+> [Dancing] Just hanging out. Hanging out with my family. Having ourselves a paaaarty.
+
+> Ryan: How about airplane food?
+>
+> Me: What about airplane food?
+>
+> Ryan: That's it. You just say how about that airplane food and it's a joke.
+
+> Ryan: I'm a word guy and a sequence of words guy. I like idioms.
+>
+> Me: Oh, so you like Chinese. 
+>
+> Ryan: Well, I'm not a Chinese word guy. I'm like a guy who's Chinese not a Chinese guy. 
+
+> Me: Well, you're such an idiom guy. How about 'when you're deep in shit shut your mouth.'
+>
+> Ryan: Well I'll say better to have tried then...
+
+> It's easier to move around if you can move your legs. Presumably. 
+
+> Me: We get it, you're rich.
+>
+> Ryan: No, at that time I was only in the 4000 square foot house.
+
+> Me: Did you know Madagascar is one of the poorest nations in the world.
+>
+> Ryan: Oh
+> 
+> ...
+>
+> Ryan: Why?
+>
+> Me: What. What do you mean *why*?
+>
+> Ryan: Well, I was expecting a punchline. 
