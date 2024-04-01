@@ -92,7 +92,7 @@
 68. If you could go back in time to tell your 10 year old self one sentence, what would you say? (Tessa)
 69. If you were to die tomorrow, what would you regret not having done?... Why aren't you doing it now? (Jacob H.)
 70. How many books have you read this year? (Trevor L.)
-71. What does love look like to you? (Jon P.)
+71. What does love look like to you? (June P.)
 72. Tell me a story. (Huy)
 73. / 73.5
     * Tell me about an interesting experience you had with a stranger. (Cait C.)
