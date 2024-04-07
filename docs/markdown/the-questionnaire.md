@@ -105,3 +105,5 @@
 79. You're given a poke bowl. Do you stir before eating? (Soon Jae)
 80. Would you rather die today or live forever. (Cameron)
 81. If you were a pizza, what kind would you be? (Jenny C.)
+82. What is your ideal spring break? (Yu)
+83. How cakey do you like your cookies? (Huy, Jenny, Ryan, Sharon, Yu)
