@@ -24,6 +24,11 @@
 
 > Surreal scenarios are one of the basic ingredients of humor, my friend
 
+> I'm learning dancing, that's my core class at this university.
+
+> It's a self-serve butter situation.
+
+> Oh, I don't use Twitter—it's a wasteland!
 
 
 
