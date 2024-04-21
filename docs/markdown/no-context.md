@@ -30,5 +30,7 @@
 
 > Oh, I don't use Twitter—it's a wasteland!
 
+> They really do look alike! I so called it! Your brother is the spitting image of Sanderia malayensis. the prince of the jellyfish world! I mean, your brother doesn't have tentacles, and the jellyfish doesn't have a brain, but they give off the same vibe!
+
 
 

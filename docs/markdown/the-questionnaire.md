@@ -107,3 +107,4 @@
 81. If you were a pizza, what kind would you be? (Jenny C.)
 82. What is your ideal spring break? (Yu)
 83. How cakey do you like your cookies? (Huy, Jenny, Ryan, Sharon, Yu)
+84. What is your favorite photo you have ever taken? Bonus points if you have pictures. [Previous submissions](https://drive.google.com/drive/u/1/folders/17z6VXi_0UdYPafpgLZLdm2PXM157-UU3)

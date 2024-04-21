@@ -125,7 +125,7 @@ TLDR for this very much tongue-in-cheek "analysis." Kyler performs worse on the 
 [Gridiron Heights](https://www.youtube.com/watch?v=uUqsc2u-t88) 
 
 ## The Future
-I don't have much faith in the Cards for 2023. They finally got rid of their mid coach (Kliff Kingsbury, who is now notorious for buying a one-way ticket to Thailand after his dismissal) but by all indications seem to be tanking for the 2023 season. With Kyler having a severe injury they have been offering star receieved DeAndre Hopkins in trade packages. It's looking like a 5 win season once again with no real signs of progress. 
+I don't have much faith in the Cards for 2023. They finally got rid of their mid coach (Kliff Kingsbury, who is now notorious for buying a one-way ticket to Thailand after his dismissal) but by all indications seem to be tanking for the 2023 season. With Kyler having a severe injury they have been offering star receiever DeAndre Hopkins in trade packages. It's looking like a 5 win season once again with no real signs of progress. 
 
 So there you go, a brief overview of the Arizona Cardinals, the NFL's sleeper worse franchise. Really, if you look up Cardinals in google you get the St. Louis Cardinals more than likely. Become a fan of those Cardinals, instead. 
 
