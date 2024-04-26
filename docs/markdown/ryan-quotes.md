@@ -414,3 +414,15 @@
 > Me: I don't know *their* favorite piece. I don't even know what *your* favorite piece is!
 
 > Ryan: "En Pawnsant" 
+
+> [a picture of 3rd grade Ryan when he was playing chess is on my phone]
+>
+> Ryan: Oh my god! What is that position?
+
+> Me: What about this position?
+>
+> Ryan: Oh my god, I remember this, too. I remember I said it made no sense; like white had to have moved their knight forward and then back.
+>
+> Me: You only have photographic memory for shitty chess positions.
+>
+> Ryan: Yeah, I think that is what I said the first time you showed me this. 
