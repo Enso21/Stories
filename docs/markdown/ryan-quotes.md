@@ -394,3 +394,23 @@
 > Me: What. What do you mean *why*?
 >
 > Ryan: Well, I was expecting a punchline. 
+
+> [Ryan guessing their secret admirer]
+>
+> Ryan: So when will she be there
+>
+> Me: I think you meant when will *they* be there... This isn't 20 questions bro.
+>
+> Ryan: Well, is this like 5 questions?
+>
+> Me: No, it's "wait and find out"
+> 
+> Ryan: Ok, but what is *his* favorite piece
+>
+> Me: Well, *my* favorite piece is the pawn.
+>
+> Ryan: But I'm not asking for your favorite piece, I'm asking for his.
+>
+> Me: I don't know *their* favorite piece. I don't even know what *your* favorite piece is!
+
+> Ryan: "En Pawnsant" 
