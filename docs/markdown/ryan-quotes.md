@@ -403,7 +403,7 @@
 
 > Me: If you could go back in time and tell your 10 year old self anything, what would it be?
 >
-> Ryan: What is that, 4th or 5th [grade]? Danig, I was cracked at chess.
+> Ryan: What is that, 4th or 5th [grade]? Dang, I was cracked at chess.
 
 > If taste could kill.
 
@@ -448,6 +448,12 @@
 > 
 > Ryan: There's so much diversity with the fish, but not the guys.
 
+> Me: What data set are they using? 
+> 
+> ...
+>
+> Me: Aw snap they are using MNIST? Bro, why does everyone use MNIST for everything. That's like using a Bazooka to kill [insert small animal]. Dude, I swear the perceptron could get like 80% testing accuracy on MNIST. Why they hell do all the examples use MNIST???
+
 > [On Charlotte 2's nickname]
 >
 > Me: Well, we've only met each other twice... so I guess I know her enough to call her Charlotte 2. 
@@ -455,3 +461,11 @@
 > Ryan: Well, *you* don't need to know someone for very long to call them Charlotte 2.
 
 > Ryan: Ok, if she sat on you and you couldn't figure it out, then you kinda are an asshole. 
+
+> [on compiling our scuffed version of vgg16]
+> 
+> Me: *freaking out because of an annoying red squiggly line in my dependencies*
+> 
+> Ryan: Sorry bro, I don't know what to say. My code is just built different.
+> 
+> *[he's not waking up tomorrow]*
