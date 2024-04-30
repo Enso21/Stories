@@ -489,3 +489,17 @@
 > Ryan: Sorry bro, I don't know what to say. My code is just built different.
 > 
 > *[he's not waking up tomorrow]*
+
+> [it's 3am in the CIS lounge]
+> 
+> Me: What time is it, ugh.
+>
+> *looks at phone*
+> 
+> Me: Wait, dude when did we get here?
+>
+> Ryan: We got here after dinner, so around...
+>
+> Me: 7ish? Then... [slow processing on low sanity]. We've been here for EIGHT hours?!?
+>
+> Ryan: Wait, you're right. I thought we'd only been here for 6 hours because I did the math wrong. 
