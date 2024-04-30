@@ -395,6 +395,18 @@
 >
 > Ryan: Well, I was expecting a punchline. 
 
+> The sink is cooking bro
+
+> [on brown butter]
+>
+> We were in the green, but now...
+
+> Me: If you could go back in time and tell your 10 year old self anything, what would it be?
+>
+> Ryan: What is that, 4th or 5th [grade]? Danig, I was cracked at chess.
+
+> If taste could kill.
+
 > [Ryan guessing their secret admirer]
 >
 > Ryan: So when will she be there
@@ -426,3 +438,20 @@
 > Me: You only have photographic memory for shitty chess positions.
 >
 > Ryan: Yeah, I think that is what I said the first time you showed me this. 
+
+> I need that scarce hair, not that plentiful hair. 
+
+> [clicking through examples in image class n01440764 in imagenet]
+> Ryan: I'm not seeing a lot of diversity. Oh wait, it' a woman! How diverse.
+>
+> Me: I'm gonna put that in your quotes. Do you think I'm gonna finish typing the quote before you find a person of color.
+> 
+> Ryan: There's so much diversity with the fish, but not the guys.
+
+> [On Charlotte 2's nickname]
+>
+> Me: Well, we've only met each other twice... so I guess I know her enough to call her Charlotte 2. 
+>
+> Ryan: Well, *you* don't need to know someone for very long to call them Charlotte 2.
+
+> Ryan: Ok, if she sat on you and you couldn't figure it out, then you kinda are an asshole. 
