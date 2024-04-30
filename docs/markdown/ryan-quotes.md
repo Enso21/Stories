@@ -482,6 +482,10 @@
 
 > Ryan: Ok, if she sat on you and you couldn't figure it out, then you kinda are an asshole. 
 
+> [we're jamming to Casiopea]
+>
+> Me: That's such a fun answer to the question of 'what music do you listen to?.' 'Oh I listen to Japanese jazz fusion from the 1980s.'
+
 > [on compiling our scuffed version of vgg16]
 > 
 > Me: *freaking out because of an annoying red squiggly line in my dependencies*
