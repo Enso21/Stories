@@ -313,6 +313,7 @@
 
 > The road is intoxicating.
 
+---
 ## The Cups
 
 > I've been using the same fork for 12 weeks. It's causing me to reexamine my beliefs about the cup.
@@ -442,23 +443,42 @@
 > I need that scarce hair, not that plentiful hair. 
 
 > [clicking through examples in image class n01440764 in imagenet]
+>
 > Ryan: I'm not seeing a lot of diversity. Oh wait, it' a woman! How diverse.
 >
 > Me: I'm gonna put that in your quotes. Do you think I'm gonna finish typing the quote before you find a person of color.
 > 
 > Ryan: There's so much diversity with the fish, but not the guys.
 
-> Me: What data set are they using? 
+> Me: What dataset are they using? 
 > 
 > ...
 >
-> Me: Aw snap they are using MNIST? Bro, why does everyone use MNIST for everything. That's like using a Bazooka to kill [insert small animal]. Dude, I swear the perceptron could get like 80% testing accuracy on MNIST. Why they hell do all the examples use MNIST???
+> Me: Aw snap they are using MNIST? Bro, why does everyone use MNIST for everything. That's like using a Bazooka to kill [insert small animal]. Dude, I swear the perceptron could get like 80% testing accuracy on MNIST. Why the hell do all the examples use MNIST???
+
+> Niten: it may or may not be another donut scenario
+>
+> xru192: I see 
+>
+> [he's now quite concerned]
+>
+> Niten: but like reversed 
+> 
+> *sigh*
+>
+> xru192: oh 
+> 
+> [he's slightly less concerned]
 
 > [On Charlotte 2's nickname]
 >
 > Me: Well, we've only met each other twice... so I guess I know her enough to call her Charlotte 2. 
 >
 > Ryan: Well, *you* don't need to know someone for very long to call them Charlotte 2.
+
+[//]: # (Ryan: I saw them one time, and she was umm sitting on him. So I kinda just assumed.)
+
+[//]: # (Me: Well, she never sat on me, so...)
 
 > Ryan: Ok, if she sat on you and you couldn't figure it out, then you kinda are an asshole. 
 
