@@ -507,3 +507,31 @@
 > Me: 7ish? Then... [slow processing on low sanity]. We've been here for EIGHT hours?!?
 >
 > Ryan: Wait, you're right. I thought we'd only been here for 6 hours because I did the math wrong. 
+
+> Ryan: Asking questions is not indicative guilt.
+>
+> Me: I'll keep that in mind.
+>
+> Ryan: Well, I said that without much thought. 
+
+> [on the Rhodes first floor bathroom]
+> 
+> Ryan: You know how I said that the Cornell Store bathroom is the worst bathroom on campus? This one is top 3.
+>
+> Huy: Wait what?
+>
+> Ryan: Top 3 worse. 
+
+> I'm not flaming you, I'm adding fuel to the fire.
+
+> Me: Do you want to sit down Ryan?
+>
+> Ryan: Nah, I'm afraid of sitting on nature.
+
+> [Ryan on English Class]
+> 
+> There are people in English who are so good as bsing. Yeah, there are some people who say some reasonable interpretations. And then there's other people who speak, and everyone just wasted 30 seconds of their lives. 
+
+> Me: Is this a RyanMD moment?
+>
+> Ryan: Well, yes, but RyanMD is not 0% accurate. It's accurate at least some time, otherwise it wouldn't exist. 

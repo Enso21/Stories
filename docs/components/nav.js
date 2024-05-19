@@ -53,8 +53,8 @@ class Nav extends HTMLElement {
           <li class="nav-item"> <a href="ryan-quotes.html">
               <h2 class="nav-subtitle">Ryan Quotes</h2>
             </a></li>
-          <li class="nav-item"> <a href="index.html">
-              <h2 class="nav-subtitle">!!!</h2>
+          <li class="nav-item"> <a href="charlotte-quotes.html">
+              <h2 class="nav-subtitle">Charlotte Quotes</h2>
             </a></li>
         </ol>
         </a>
