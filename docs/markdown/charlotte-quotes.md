@@ -53,3 +53,5 @@
 > Manic at the 7/11
 
 > I'm not not pregnant
+
+> Too bad their homophobic, but it [a chicken sandwich] warmed my soul.
