@@ -54,4 +54,4 @@
 
 > I'm not not pregnant
 
-> Too bad their homophobic, but it [a chicken sandwich] warmed my soul.
+> Too bad they're homophobic, but it [a chicken sandwich] warmed my soul.
