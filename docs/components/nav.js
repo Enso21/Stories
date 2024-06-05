@@ -48,7 +48,7 @@ class Nav extends HTMLElement {
               <h2 class="nav-subtitle">No Context</h2>
             </a></li>
           <li class="nav-item"> <a href="quotes.html">
-              <h2 class="nav-subtitle">Quotes</h2>
+              <h2 class="nav-subtitle">Book Quotes</h2>
             </a></li>
           <li class="nav-item"> <a href="ryan-quotes.html">
               <h2 class="nav-subtitle">Ryan Quotes</h2>

@@ -535,3 +535,5 @@
 > Me: Is this a RyanMD moment?
 >
 > Ryan: Well, yes, but RyanMD is not 0% accurate. It's accurate at least some time, otherwise it wouldn't exist. 
+
+> Only half of them are getting a bear. It's a bear eat bear world. 
