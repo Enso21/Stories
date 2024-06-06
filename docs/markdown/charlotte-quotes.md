@@ -4,6 +4,8 @@
 
 > There's something fun about romanticizing the grind.
 
+> that's not a reply u "expressive-eyed" bitch
+
 > [on my words]
 > 
 > You never say anything stupid. Everything you say is genius.
@@ -94,3 +96,4 @@
 
 > I'm going to try to find some good wee woo pics. 
 
+> by the cube rule of food, you're calzoning me.
