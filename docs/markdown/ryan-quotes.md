@@ -406,6 +406,8 @@
 >
 > Ryan: What is that, 4th or 5th [grade]? Dang, I was cracked at chess.
 
+> "I'm a sad watermelon."
+
 > If taste could kill.
 
 > [Ryan guessing their secret admirer]
