@@ -537,3 +537,16 @@
 > Ryan: Well, yes, but RyanMD is not 0% accurate. It's accurate at least some time, otherwise it wouldn't exist. 
 
 > Only half of them are getting a bear. It's a bear eat bear world. 
+
+> We're sympathizers. It's like if you see something, say something.
+
+> Ryan: "It's one of the things I hate most about the world."
+>
+> Me: "Injustice?"
+>
+> Ryan: "Lines."
+>
+> [Paraphrasing]
+> Ryan: "Wait that's a setup for an out of context—"
+>
+> Me: "Yup, you're absolutely right."
