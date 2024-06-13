@@ -97,3 +97,5 @@
 > I'm going to try to find some good wee woo pics. 
 
 > by the cube rule of food, you're calzoning me.
+
+> If you ever take feet pics in stockings...
