@@ -99,3 +99,7 @@
 > by the cube rule of food, you're calzoning me.
 
 > If you ever take feet pics in stockings...
+
+> We don't need opposable thumbs. 
+
+> in elementary school, I had 3 friends...
