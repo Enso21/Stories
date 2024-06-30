@@ -103,3 +103,5 @@
 > We don't need opposable thumbs. 
 
 > in elementary school, I had 3 friends...
+
+> "mentally and emotionally i am running around the backrooms of the mario kart coconut mall racetrack"
