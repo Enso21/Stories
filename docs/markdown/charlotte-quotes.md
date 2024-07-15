@@ -105,3 +105,8 @@
 > in elementary school, I had 3 friends...
 
 > "mentally and emotionally i am running around the backrooms of the mario kart coconut mall racetrack"
+
+> "meesa charchardinks"
+
+> "It's ok, he's not a baby, he's a full grown chicken."
+
