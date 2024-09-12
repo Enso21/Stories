@@ -116,6 +116,6 @@
 
 > "I'm on the internet; I don't have a single original thought." 
 
-> "I'm live in a world of flavor... Flavor maxing."
+> "I live in a world of flavor... Flavor maxing."
 
 > It's so culturally significant because everyone thinks the fox is hot. 
