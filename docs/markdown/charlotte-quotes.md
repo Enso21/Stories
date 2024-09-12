@@ -110,3 +110,12 @@
 
 > "It's ok, he's not a baby, he's a full grown chicken."
 
+> "i would fuck. up. every one of those islands"
+
+> "I like the food, I just don't believe in it"
+
+> "I'm on the internet; I don't have a single original thought." 
+
+> "I'm live in a world of flavor... Flavor maxing."
+
+> It's so culturally significant because everyone thinks the fox is hot. 
