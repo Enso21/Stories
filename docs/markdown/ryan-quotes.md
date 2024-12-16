@@ -552,3 +552,5 @@
 > Ryan: "Wait that's a setup for an out of context—"
 >
 > Me: "Yup, you're absolutely right."
+
+> Just trust me. When have I ever led you astray?

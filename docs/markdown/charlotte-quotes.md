@@ -119,3 +119,7 @@
 > "I live in a world of flavor... Flavor maxing."
 
 > It's so culturally significant because everyone thinks the fox is hot. 
+
+> I'm ominous and threatening. They're my two favorite adjectives. 
+
+> You're never on a scooter to mess around. You're on a scooter to win. 
