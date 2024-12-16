@@ -532,13 +532,13 @@
 
 > [Ryan on English Class]
 > 
-> There are people in English who are so good as bsing. Yeah, there are some people who say some reasonable interpretations. And then there's other people who speak, and everyone just wasted 30 seconds of their lives. 
+> There are people in English who are so good as bs-ing. Yeah, there are some people who say some reasonable interpretations. And then there's other people who speak, and everyone just wasted 30 seconds of their lives. 
 
 > Me: Is this a RyanMD moment?
 >
 > Ryan: Well, yes, but RyanMD is not 0% accurate. It's accurate at least some time, otherwise it wouldn't exist. 
 
-> Only half of them are getting a bear. It's a bear eat bear world. 
+> Only half of them are getting a bear. It's a bear-eat-bear world. 
 
 > We're sympathizers. It's like if you see something, say something.
 
