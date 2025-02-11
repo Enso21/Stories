@@ -71,7 +71,7 @@
 51. Worst exam ever at Cornell (or other college)? (Shuyu C.)
 52. If a meteor hits Earth in an hour, what would you do? (Tony C.)
 53. Go-to fun fact about yourself? (Albert X.)
-54. If you could have any animal for a pet, disregarding any maintainence costs of safety concerns, what would you get? (Jiho C.)
+54. If you could have any animal for a pet, disregarding any maintainence costs or safety concerns, what would you get? (Jiho C.)
 55. What's a life event that you think everyone should go through? (Charlotte D.)
 56. / 56.5
       * What's your drag name? (Elena)
@@ -108,3 +108,4 @@
 82. What is your ideal spring break? (Yu)
 83. How cakey do you like your cookies? (Huy, Jenny, Ryan, Sharon, Yu)
 84. What is your favorite photo you have ever taken? Bonus points if you have pictures. [Previous responses](https://drive.google.com/drive/u/1/folders/17z6VXi_0UdYPafpgLZLdm2PXM157-UU3) (Kevin Z.)
+85. What art piece would you like to be? (Dani)

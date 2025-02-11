@@ -123,3 +123,8 @@
 > I'm ominous and threatening. They're my two favorite adjectives. 
 
 > You're never on a scooter to mess around. You're on a scooter to win. 
+
+> I'd rather be an anteater. I feel like not having legs would suck. It would suck having to wiggle around to get anywhere. I also think anteaters enjoy eating ants.
+
+> If you ever want to look European, wear a scarf. 
+
