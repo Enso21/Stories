@@ -556,3 +556,5 @@
 > Just trust me. When have I ever led you astray?
 
 > If there’s any rutabaga movies out there I’ll consider
+
+> Jenny and I went to Whole Foods and stole all the pork they had. Well not stole, cause we bought it but—
