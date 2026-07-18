@@ -446,7 +446,7 @@
 
 > [clicking through examples in image class n01440764 in imagenet]
 >
-> Ryan: I'm not seeing a lot of diversity. Oh wait, it' a woman! How diverse.
+> Ryan: I'm not seeing a lot of diversity. Oh wait, it's a woman! How diverse.
 >
 > Me: I'm gonna put that in your quotes. Do you think I'm gonna finish typing the quote before you find a person of color.
 > 
@@ -558,3 +558,9 @@
 > If there’s any rutabaga movies out there I’ll consider
 
 > Jenny and I went to Whole Foods and stole all the pork they had. Well not stole, cause we bought it but—
+
+> It doesn't matter if I live or die. It's all the same.
+
+> You know one man's trash is another man's popcorn
+
+> You just used wont so nonchalantly.
